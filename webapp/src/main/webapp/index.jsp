@@ -4,7 +4,7 @@
   <title>My web page</title>
   <style>
     body {
-      background-color: blue;
+      background-color: yellow;
     }
   </style>
 </head>
